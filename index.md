@@ -6,3 +6,4 @@ This is a temporal index, which will become a page eventually, to list articles 
 - [The threat from the illiberal left - The Economist](/web/20211008044010/https://www.economist.com/leaders/2021/09/04/the-threat-from-the-illiberal-left)
 - [The great awokening—America’s threat from the illiberal left](https://open.spotify.com/episode/79T8A7IHDZt3TdivJw4Dgl?si=4vmnpGaATsehKTxwfXxDGQ&dl_branch=1)
 - [Left-wing activists are using old tactics in a new assault on liberalism - The Economist](https://web.archive.org/web/20211008044401/https://www.economist.com/briefing/2021/09/04/left-wing-activists-are-using-old-tactics-in-a-new-assault-on-liberalism)
+- [Peter Boghossian's resignation letter to Portland State University](https://bariweiss.substack.com/p/my-university-sacrificed-ideas-for)
