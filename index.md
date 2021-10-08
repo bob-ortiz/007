@@ -9,3 +9,5 @@ This is a temporal index, which will become a page eventually, to list articles 
 - [The great awokening—America’s threat from the illiberal left](https://open.spotify.com/episode/79T8A7IHDZt3TdivJw4Dgl?si=4vmnpGaATsehKTxwfXxDGQ&dl_branch=1)
 - [Left-wing activists are using old tactics in a new assault on liberalism - The Economist](https://web.archive.org/web/20211008044401/https://www.economist.com/briefing/2021/09/04/left-wing-activists-are-using-old-tactics-in-a-new-assault-on-liberalism)
 - [Peter Boghossian's resignation letter to Portland State University](https://bariweiss.substack.com/p/my-university-sacrificed-ideas-for)
+- [Camille Paglia Can’t Say That - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/05/camille-paglia-uarts-left-deplatform/587125/)
+- [Self-Censorship on Campus Is Bad for Science - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/05/self-censorship-campus-bad-science/589969/) by Luana Marjora (biology professor at Williams College)
