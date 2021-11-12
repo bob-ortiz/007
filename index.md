@@ -11,3 +11,4 @@ This is a temporal index, which will become a page eventually, to list articles 
 - [Peter Boghossian's resignation letter to Portland State University](https://bariweiss.substack.com/p/my-university-sacrificed-ideas-for)
 - [Camille Paglia Can’t Say That - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/05/camille-paglia-uarts-left-deplatform/587125/)
 - [Self-Censorship on Campus Is Bad for Science - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/05/self-censorship-campus-bad-science/589969/) by Luana Marjora (biology professor at Williams College)
+- [Alejandro Zaera-Polo and Princeton scandal](https://www.curbed.com/2021/10/alejandro-zaera-polo-princeton-architecture.html#comments), [Source 2](https://archinect.com/news/article/150284003/alejandro-zaera-polo-has-been-removed-from-his-faculty-position-as-princeton-continues-its-row-with-the-former-soa-dean), 
